@@ -1,0 +1,88 @@
+[
+  {
+    "id":"1",
+    "url_da":[
+      "static/img/goods1.jpg" ,
+      "static/img/goods1.jpg"
+    ],
+    "url_xq":[
+      "static/img/detail1.jpg" ,
+      "static/img/detail2.jpg" ,
+      "static/img/detail3.jpg" 
+    ],
+    "title":"【满口麻香1】向妈妈年货大礼包组合",
+    "price":"20",
+    "nowprice":"9.9",
+    "number":5
+  },
+  {
+    "id":"2",
+    "url_da":[
+      "static/img/goods2.jpg" ,
+      "static/img/goods1.jpg" ,
+      "static/img/goods1.jpg" 
+    ],
+    "url_xq":[
+      "static/img/detail1.jpg" ,
+      "static/img/detail2.jpg" ,
+      "static/img/detail3.jpg" 
+    ],
+    "title":"【满口麻香2】向妈妈年货大礼包组合",
+    "price":"30",
+    "nowprice":"9.9",
+    "number":4
+  },
+  {
+    "id":"3",
+    "url_da":[
+      "static/img/goods1.jpg" ,
+      "static/img/goods2.jpg" ,
+      "static/img/goods1.jpg" 
+    ],
+    "url_xq":[
+      "static/img/detail1.jpg" ,
+      "static/img/detail2.jpg" ,
+      "static/img/detail3.jpg" 
+    ],
+    "title":"【满口麻香2】向妈妈年货大礼包组合",
+    "price":"50",
+    "nowprice":"19.9",
+    "number":7
+  },
+  {
+    "id":"4",
+    "url_da":[
+      "static/img/goods1.jpg" ,
+      "static/img/goods2.jpg" ,
+      "static/img/goods1.jpg" 
+    ],
+    "url_xq":[
+      "static/img/detail1.jpg" ,
+      "static/img/detail2.jpg" ,
+      "static/img/detail3.jpg" 
+    ],
+    "title":"【满口麻香2】向妈妈年货大礼包组合",
+    "price":"89",
+    "nowprice":"29.9",
+    "number":9
+  },
+  {
+    "id":"5",
+    "url_da":[
+      "static/img/goods1.jpg" ,
+      "static/img/goods2.jpg" ,
+      "static/img/goods1.jpg" 
+    ],
+    "url_xq":[
+      "static/img/detail1.jpg" ,
+      "static/img/detail2.jpg" ,
+      "static/img/detail3.jpg" 
+    ],
+    "title":"【满口麻香2】向妈妈年货大礼包组合",
+    "price":"89",
+    "nowprice":"29.9",
+    "number":9
+  }
+
+  
+]

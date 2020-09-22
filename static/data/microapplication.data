@@ -1,0 +1,46 @@
+[
+  {"title":"推荐",
+    "recommend":[
+    { "title":"考试","icon":"icon-bianji"},
+    { "title":"小组广场","icon":"icon-Customermanagement-fill "},
+    { "title":"培训课程","icon":"icon-flag"},
+    { "title":"尔雅咨询","icon":"icon-wenda "},
+    { "title":"直播广场","icon":"icon-jiju "},
+    { "title":"学习档案","icon":"icon-wenjuan "},
+    { "title":"课程广场","icon":"icon-ditu "},
+    { "title":"活动","icon":"icon-filter"},
+    { "title":"星阅读","icon":"icon-collection-fill "}
+  ]},
+  {"title":"移动图书馆",
+    "library":[
+    { "title":"下载","icon":"icon-falling"},
+    { "title":"期刊","icon":"icon-yingpingmoban"},
+    { "title":"图书","icon":"icon-integral-fill "},
+    { "title":"报纸","icon":"icon-dingdan "},
+    { "title":"公开课","icon":"icon-share "},
+    { "title":"学术资源","icon":"icon-yingyuan1 "},
+    { "title":"有声读物","icon":"icon-paihangbang "},
+    { "title":"视频","icon":"icon-play-fill "},
+    { "title":"借阅记录","icon":"icon-wenjuan "},
+    { "title":"馆藏查询","icon":"icon-viewlarger1"},
+    { "title":"红色书籍","icon":"icon-yixiangkan"}
+  ]},
+  {"title":"移动博物馆",
+    "museum":[
+    { "title":"金色名片","icon":"icon-yinhangyouhui "},
+    { "title":"展览推荐","icon":"icon-share "},
+    { "title":"国家宝藏","icon":"icon-product1 "},
+    { "title":"第二课堂","icon":"icon-fanbei"}
+  ]},
+  {"title":"小程序",
+    "Applet":[
+    { "title":"知识挑战","icon":"icon-feed-logo-fill "},
+    { "title":"数独","icon":"icon-fanbei"},
+    { "title":"读书报告","icon":"icon-security-fill"},
+    { "title":"能力测试","icon":"icon-shuju1 "},
+    { "title":"请假","icon":"icon-shijian1 "},
+    { "title":"外出签到","icon":"icon-wodeguanzhu "},
+    { "title":"表单采集","icon":"icon-dingdan "}
+  ]}
+
+]

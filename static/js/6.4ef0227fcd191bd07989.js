@@ -1,0 +1,2 @@
+webpackJsonp([6],{R0lY:function(t,e){},jyJz:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement,e=this._self._c||t;return e("div",{staticClass:"oederlist"},[e("Topbar",{attrs:{toptitle:"用户信息"}}),this._v(" "),e("h1",[this._v("用户信息")])],1)},staticRenderFns:[]};var i=n("VU/8")({name:"OrderList",data:function(){return{}},created:function(){}},r,!1,function(t){n("R0lY")},null,null);e.default=i.exports}});
+//# sourceMappingURL=6.4ef0227fcd191bd07989.js.map
